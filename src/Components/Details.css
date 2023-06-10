@@ -11,10 +11,12 @@
 }
 
 .self-con {
-  background-color: #00539c;
+  /* background-color: #00539c; */
+
   padding: 1rem 1.3rem;
   border-radius: 25px;
   color: white;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   line-height: 2rem;
+  background-image: linear-gradient(120deg, #d33a3aa6, #00539c);
 }
