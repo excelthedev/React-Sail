@@ -1,0 +1,20 @@
+.container {
+  background-color: #eea47f;
+  padding-bottom: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 1rem;
+  flex-direction: column;
+}
+
+.self-con {
+  background-color: #00539c;
+  padding: 1rem 1.3rem;
+  border-radius: 25px;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  line-height: 2rem;
+}
